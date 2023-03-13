@@ -23,7 +23,7 @@ email: mabsbaltazar@gmail.com
 Clone the repository from
 
 ```sh
-git clone 
+git clone https://github.com/sucmar/task3-module-vi.git
 ```
 
 ## Installation
