@@ -1,0 +1,50 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "teacher_name": "Leanne Graham",
+      "teacher_email": "Sincere@gmail.com"
+    },
+    {
+      "id": 3,
+      "teacher_name": "Clementine Bauch",
+      "teacher_email": "Nathan@hotmail.com"
+    },
+    {
+      "id": 4,
+      "teacher_name": "Patricia Lebsack tes",
+      "teacher_email": "Julianne@kory.org"
+    },
+    {
+      "teacher_name": "Marco Baltazar",
+      "teacher_email": "marcus@gmail.com",
+      "id": 5
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "course_name": "1A",
+      "course_description": "contains 20 chairs, 1 board, 1 table",
+      "teacher_id": 1
+    },
+    {
+      "id": 2,
+      "course_name": "2B",
+      "course_description": "contains 50 chairs, 1 board, 1 table",
+      "teacher_id": 2
+    },
+    {
+      "course_name": "3A",
+      "course_description": "room for meetings, capacity 10 personas",
+      "teacher_id": "2",
+      "id": 3
+    },
+    {
+      "course_name": "1C",
+      "course_description": "library",
+      "teacher_id": "4",
+      "id": 4
+    }
+  ]
+}
